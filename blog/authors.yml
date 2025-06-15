@@ -1,8 +1,13 @@
 heliacer:
-  name: Heliacer
+  name: Francisco
   title: Mango Developer
   image_url: https://github.com/heliacer.png
   page: true
   socials:
     github: heliacer
-    discord: heliacer
+thobias:
+  name: Thobias
+  title: Mango Developer
+  image_url: https://cdn.discordapp.com/avatars/251831918973157376/df7afd7c57d9c8f06803bdf9471b8e76.png
+  socials:
+    github: StaTicDKK17

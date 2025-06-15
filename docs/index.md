@@ -121,4 +121,4 @@ function greet() {
 Check out Mango's sources [on GitHub](https://github.com/mangofn/Mango)
 
 > Feel free to PR improvements to this DSL!
-> Built with ❤️ by Heliacer, Ameer, Thobias & Marvin
+> Built with ❤️ by Francisco, Thobias & Marvin

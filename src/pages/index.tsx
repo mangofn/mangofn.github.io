@@ -33,7 +33,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="🥭 A beautiful Desktop App DSL">
       <HomepageHeader />
       <main className={styles.main}>
         <div className={styles.buttons}>
@@ -42,7 +42,7 @@ export default function Home(): ReactNode {
             to="/docs/">
             Let's go
           </Link>
-          <img src="https://www.camposol.com/wp-content/uploads/2019/01/mangos.jpg" alt="" />
+          <img src="img/mangos.png" alt="" />
         </div>
       </main>
     </Layout>
